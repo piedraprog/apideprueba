@@ -1,0 +1,10 @@
+# VARIABLES DE ENTORNO
+.env
+# MODULOS DE NODE
+/node_modules
+
+#script para ingresar la data 
+/data
+
+#rest client source
+/request
