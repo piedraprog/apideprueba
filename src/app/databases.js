@@ -10,3 +10,8 @@ import config from './config';
     });
     console.log("database is conected to: ", db.connection.name);
 })();
+
+
+// direccion en caso de no tener el archivo 
+// crear el archivo y adentro colocar esto
+// MONGODB_DIRURL= mongodb://localhost/apideprueba 
